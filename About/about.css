@@ -1,0 +1,25 @@
+body {
+    font-family: 'Mr Dafoe', cursive;
+     color: #fff;
+ background: #3494E6;  /* fallback for old browsers */
+ background: -webkit-linear-gradient(90deg, rgba(210, 1, 204, 1), rgba(0, 105, 213, 1));  /* Chrome 10-25, Safari 5.1-6 */
+ background: linear-gradient(90deg, rgba(210, 1, 204, 1), rgba(0, 105, 213, 1)); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+ 
+ }
+ h1{
+    font-size: 80px;
+     line-height: .80em;
+     font-weight: 400;
+   text-align:center;
+     padding: 18px 0;
+     margin: 100px 0 0 -2px;
+ }
+ h3 {
+   font-family: 'Michroma', sans-serif;
+   text-transform:uppercase;
+   font-size: 24px;
+     line-height: 1.2;
+   line-spacing: 1em;
+   margin: 0;  
+   text-align:center;
+ }
